@@ -10,4 +10,9 @@ int main(){
     if(n1 > soma){
         print("%f é maior que a soma dos dois numeros %f", n1, soma);
     }
+    else{
+        printf("%f é menor que a soma dos dois numeros %f", n1, soma);
+    }
+
+    return 0;
 }

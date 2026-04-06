@@ -12,5 +12,5 @@ int main(){
     area_total = area_base + area_altura;
 
     printf("A area total e %f", area_total);
-
+    return 0;
 }

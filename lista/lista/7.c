@@ -7,4 +7,5 @@ int main(){
     quociente = x / y;
     resto = x % y;
     printf("Quociente: %d\nResto: %d", quociente, resto);
+    return 0;
 }
